@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_rankings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated_at="2017-04-24T09:51:10+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/tennis" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/tennis http://schemas.sportradar.com/bsa/v1/endpoints/tennis/player_rankings.xsd">
+<ranking name="WTA" type="WTA" year="2017" week="17" category_id="sr:category:6">
+    <player_ranking rank="1" points="7010">
+        <player id="sr:competitor:18254" name="Williams, Serena" abbreviation="WIL" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="2" points="6925">
+        <player id="sr:competitor:19578" name="Kerber, Angelique" abbreviation="KER" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="3" points="6020">
+        <player id="sr:competitor:20732" name="Pliskova, Karolina" abbreviation="PLI" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="4" points="5065">
+        <player id="sr:competitor:19316" name="Cibulkova, Dominika" abbreviation="CIB" nationality="Slovakia" country_code="SVK"/>
+    </player_ranking>
+    <player_ranking rank="5" points="5021">
+        <player id="sr:competitor:35837" name="Halep, Simona" abbreviation="HAL" nationality="Romania" country_code="ROU"/>
+    </player_ranking>
+    <player_ranking rank="6" points="4691">
+        <player id="sr:competitor:50776" name="Muguruza, Garbine" abbreviation="MUG" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="7" points="4330">
+        <player id="sr:competitor:45772" name="Konta, Johanna" abbreviation="KON" nationality="Great Britain" country_code="GBR"/>
+    </player_ranking>
+    <player_ranking rank="8" points="4205">
+        <player id="sr:competitor:19249" name="Radwanska, Agnieszka" abbreviation="RAD" nationality="Poland" country_code="POL"/>
+    </player_ranking>
+    <player_ranking rank="9" points="4025">
+        <player id="sr:competitor:18352" name="Kuznetsova, Svetlana" abbreviation="KUZ" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="10" points="3857">
+        <player id="sr:competitor:35424" name="Keys, Madison" abbreviation="KEY" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="11" points="3850">
+        <player id="sr:competitor:18910" name="Wozniacki, Caroline" abbreviation="WOZ" nationality="Denmark" country_code="DNK"/>
+    </player_ranking>
+    <player_ranking rank="12" points="3811">
+        <player id="sr:competitor:18251" name="Williams, Venus" abbreviation="WIL" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="13" points="3740">
+        <player id="sr:competitor:51293" name="Svitolina, Elina" abbreviation="SVI" nationality="Ukraine" country_code="UKR"/>
+    </player_ranking>
+    <player_ranking rank="14" points="2925">
+        <player id="sr:competitor:18574" name="Vesnina, Elena" abbreviation="VES" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="15" points="2900">
+        <player id="sr:competitor:19836" name="Kvitova, Petra" abbreviation="KVI" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="16" points="2475">
+        <player id="sr:competitor:19546" name="Pavlyuchenkova, Anastasia" abbreviation="PAV" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="17" points="2130">
+        <player id="sr:competitor:18430" name="Strycova, Barbora" abbreviation="STR" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="18" points="2120">
+        <player id="sr:competitor:18429" name="Stosur, Samantha" abbreviation="STO" nationality="Australia" country_code="AUS"/>
+    </player_ranking>
+    <player_ranking rank="19" points="2080">
+        <player id="sr:competitor:33593" name="Mladenovic, Kristina" abbreviation="MLA" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="20" points="1988">
+        <player id="sr:competitor:45435" name="Bertens, Kiki" abbreviation="BER" nationality="Netherlands" country_code="NLD"/>
+    </player_ranking>
+    <player_ranking rank="21" points="1924">
+        <player id="sr:competitor:87866" name="Lucic-Baroni, Mirjana" abbreviation="LUC" nationality="Croatia" country_code="HRV"/>
+    </player_ranking>
+    <player_ranking rank="22" points="1913">
+        <player id="sr:competitor:18730" name="Bacsinszky, Timea" abbreviation="BAC" nationality="Switzerland" country_code="CHE"/>
+    </player_ranking>
+    <player_ranking rank="23" points="1823">
+        <player id="sr:competitor:19427" name="Vandeweghe, Coco" abbreviation="VAN" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="24" points="1815">
+        <player id="sr:competitor:42339" name="Garcia, Caroline" abbreviation="GAR" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="25" points="1775">
+        <player id="sr:competitor:20805" name="Suarez-Navarro, Carla" abbreviation="SUA" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="26" points="1760">
+        <player id="sr:competitor:19788" name="Sevastova, Anastasija" abbreviation="SEV" nationality="Latvia" country_code="LVA"/>
+    </player_ranking>
+    <player_ranking rank="27" points="1715">
+        <player id="sr:competitor:40994" name="Gavrilova, Daria" abbreviation="GAV" nationality="Australia" country_code="AUS"/>
+    </player_ranking>
+    <player_ranking rank="28" points="1670">
+        <player id="sr:competitor:18588" name="Safarova, Lucie" abbreviation="SAF" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="29" points="1630">
+        <player id="sr:competitor:132370" name="Kasatkina, Daria" abbreviation="KAS" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="30" points="1565">
+        <player id="sr:competitor:43102" name="Babos, Timea" abbreviation="BAB" nationality="Hungary" country_code="HUN"/>
+    </player_ranking>
+    <player_ranking rank="31" points="1535">
+        <player id="sr:competitor:45545" name="Putintseva, Yulia" abbreviation="PUT" nationality="Kazakhstan" country_code="KAZ"/>
+    </player_ranking>
+    <player_ranking rank="32" points="1510">
+        <player id="sr:competitor:19607" name="Zhang, Shuai" abbreviation="ZHA" nationality="China" country_code="CHN"/>
+    </player_ranking>
+    <player_ranking rank="33" points="1507">
+        <player id="sr:competitor:35838" name="Begu, Irina" abbreviation="BEG" nationality="Romania" country_code="ROU"/>
+    </player_ranking>
+    <player_ranking rank="34" points="1507">
+        <player id="sr:competitor:74443" name="Konjuh, Ana" abbreviation="KON" nationality="Croatia" country_code="HRV"/>
+    </player_ranking>
+    <player_ranking rank="35" points="1455">
+        <player id="sr:competitor:41372" name="Davis, Lauren" abbreviation="DAV" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="36" points="1435">
+        <player id="sr:competitor:18473" name="Vinci, Roberta" abbreviation="VIN" nationality="Italy" country_code="ITA"/>
+    </player_ranking>
+    <player_ranking rank="37" points="1380">
+        <player id="sr:competitor:18481" name="Peng, Shuai" abbreviation="PEN" nationality="China" country_code="CHN"/>
+    </player_ranking>
+    <player_ranking rank="38" points="1363">
+        <player id="sr:competitor:72376" name="Siniakova, Katerina" abbreviation="SIN" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="39" points="1320">
+        <player id="sr:competitor:19934" name="Riske, Alison" abbreviation="RIS" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="40" points="1275">
+        <player id="sr:competitor:45136" name="Puig, Monica" abbreviation="PUI" nationality="Puerto Rico" country_code="PRI"/>
+    </player_ranking>
+    <player_ranking rank="41" points="1272">
+        <player id="sr:competitor:18808" name="Cornet, Alize" abbreviation="COR" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="42" points="1270">
+        <player id="sr:competitor:36067" name="Tsurenko, Lesia" abbreviation="TSU" nationality="Ukraine" country_code="UKR"/>
+    </player_ranking>
+    <player_ranking rank="43" points="1250">
+        <player id="sr:competitor:19857" name="Makarova, Ekaterina" abbreviation="MAK" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="44" points="1245">
+        <player id="sr:competitor:25066" name="McHale, Christina" abbreviation="MCH" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="45" points="1155">
+        <player id="sr:competitor:19686" name="Goerges, Julia" abbreviation="GOE" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="46" points="1113">
+        <player id="sr:competitor:66476" name="Osaka, Naomi" abbreviation="OSA" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="47" points="1110">
+        <player id="sr:competitor:19655" name="Niculescu, Monica" abbreviation="NIC" nationality="Romania" country_code="ROU"/>
+    </player_ranking>
+    <player_ranking rank="48" points="1101">
+        <player id="sr:competitor:42459" name="Rogers, Shelby" abbreviation="ROG" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="49" points="1096">
+        <player id="sr:competitor:37508" name="Siegemund, Laura" abbreviation="SIE" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="50" points="1080">
+        <player id="sr:competitor:64496" name="Ostapenko, Jelena" abbreviation="OST" nationality="Latvia" country_code="LVA"/>
+    </player_ranking>
+    <player_ranking rank="51" points="1076">
+        <player id="sr:competitor:19076" name="Shvedova, Yaroslava" abbreviation="SHV" nationality="Kazakhstan" country_code="KAZ"/>
+    </player_ranking>
+    <player_ranking rank="52" points="1050">
+        <player id="sr:competitor:38461" name="Doi, Misaki" abbreviation="DOI" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="53" points="1045">
+        <player id="sr:competitor:19444" name="Larsson, Johanna" abbreviation="LAR" nationality="Sweden" country_code="SWE"/>
+    </player_ranking>
+    <player_ranking rank="54" points="1011">
+        <player id="sr:competitor:48455" name="Golubic, Viktorija" abbreviation="GOL" nationality="Switzerland" country_code="CHE"/>
+    </player_ranking>
+    <player_ranking rank="55" points="995">
+        <player id="sr:competitor:18379" name="Jankovic, Jelena" abbreviation="JAN" nationality="Serbia" country_code="SRB"/>
+    </player_ranking>
+    <player_ranking rank="56" points="984">
+        <player id="sr:competitor:45846" name="Wang, Qiang" abbreviation="WAN" nationality="China" country_code="CHN"/>
+    </player_ranking>
+    <player_ranking rank="57" points="982">
+        <player id="sr:competitor:19361" name="Pliskova, Kristyna" abbreviation="PLI" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="58" points="966">
+        <player id="sr:competitor:137968" name="Bellis, Catherine Cartan" abbreviation="BEL" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="59" points="965">
+        <player id="sr:competitor:44059" name="Bouchard, Eugenie" abbreviation="BOU" nationality="Canada" country_code="CAN"/>
+    </player_ranking>
+    <player_ranking rank="60" points="960">
+        <player id="sr:competitor:49892" name="Duan, Ying-Ying" abbreviation="DUA" nationality="China" country_code="CHN"/>
+    </player_ranking>
+    <player_ranking rank="61" points="950">
+        <player id="sr:competitor:46448" name="Arrubarrena-Vecino, Lara" abbreviation="ARR" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="62" points="933">
+        <player id="sr:competitor:64968" name="Dodin, Oceane" abbreviation="DOD" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="63" points="900">
+        <player id="sr:competitor:45862" name="Beck, Annika" abbreviation="BEC" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="64" points="880">
+        <player id="sr:competitor:18939" name="Parmentier, Pauline" abbreviation="PAR" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="65" points="874">
+        <player id="sr:competitor:78551" name="Mertens, Elise" abbreviation="MER" nationality="Belgium" country_code="BEL"/>
+    </player_ranking>
+    <player_ranking rank="66" points="873">
+        <player id="sr:competitor:19728" name="Cirstea, Sorana" abbreviation="CIR" nationality="Romania" country_code="ROU"/>
+    </player_ranking>
+    <player_ranking rank="67" points="852">
+        <player id="sr:competitor:71484" name="Chirico, Louisa" abbreviation="CHI" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="68" points="849">
+        <player id="sr:competitor:19057" name="Minella, Mandy" abbreviation="MIN" nationality="Luxembourg" country_code="LUX"/>
+    </player_ranking>
+    <player_ranking rank="69" points="832">
+        <player id="sr:competitor:48284" name="Witthoeft, Carina" abbreviation="WIT" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="70" points="819">
+        <player id="sr:competitor:68708" name="Ozaki, Risa" abbreviation="OZA" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="71" points="815">
+        <player id="sr:competitor:18919" name="Lepchenko, Varvara" abbreviation="LEP" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="72" points="813">
+        <player id="sr:competitor:19876" name="Wickmayer, Yanina" abbreviation="WIC" nationality="Belgium" country_code="BEL"/>
+    </player_ranking>
+    <player_ranking rank="73" points="801">
+        <player id="sr:competitor:48009" name="Kontaveit, Anett" abbreviation="KON" nationality="Estonia" country_code="EST"/>
+    </player_ranking>
+    <player_ranking rank="74" points="792">
+        <player id="sr:competitor:18881" name="Pironkova, Tsvetana" abbreviation="PIR" nationality="Bulgaria" country_code="BGR"/>
+    </player_ranking>
+    <player_ranking rank="75" points="783">
+        <player id="sr:competitor:19038" name="Rodina, Evgeniya" abbreviation="ROD" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="76" points="779">
+        <player id="sr:competitor:52273" name="Brady, Jennifer" abbreviation="BRA" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="77" points="775">
+        <player id="sr:competitor:90654" name="Vikhlyantseva, Natalia" abbreviation="VIK" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="78" points="765">
+        <player id="sr:competitor:19579" name="Petkovic, Andrea" abbreviation="PET" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="79" points="753">
+        <player id="sr:competitor:42289" name="Linette, Magda" abbreviation="LIN" nationality="Poland" country_code="POL"/>
+    </player_ranking>
+    <player_ranking rank="80" points="743">
+        <player id="sr:competitor:72450" name="Hibino, Nao" abbreviation="HIB" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="81" points="737">
+        <player id="sr:competitor:42839" name="Barthel, Mona" abbreviation="BAR" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="82" points="735">
+        <player id="sr:competitor:60392" name="Sorribes Tormo, Sara" abbreviation="SOR" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="83" points="733">
+        <player id="sr:competitor:47697" name="Zheng, Saisai" abbreviation="ZHE" nationality="China" country_code="CHN"/>
+    </player_ranking>
+    <player_ranking rank="84" points="722">
+        <player id="sr:competitor:50641" name="Vekic, Donna" abbreviation="VEK" nationality="Croatia" country_code="HRV"/>
+    </player_ranking>
+    <player_ranking rank="85" points="699">
+        <player id="sr:competitor:49352" name="Barty, Ashleigh" abbreviation="BAR" nationality="Australia" country_code="AUS"/>
+    </player_ranking>
+    <player_ranking rank="86" points="698">
+        <player id="sr:competitor:25068" name="Boserup, Julia" abbreviation="BOS" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="87" points="694">
+        <player id="sr:competitor:54397" name="Tig, Patricia Maria" abbreviation="TIG" nationality="Romania" country_code="ROU"/>
+    </player_ranking>
+    <player_ranking rank="88" points="680">
+        <player id="sr:competitor:67759" name="Alexandrova, Ekaterina" abbreviation="ALE" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="89" points="680">
+        <player id="sr:competitor:47810" name="Khromacheva, Irina" abbreviation="KHR" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="90" points="664">
+        <player id="sr:competitor:44309" name="Giorgi, Camila" abbreviation="GIO" nationality="Italy" country_code="ITA"/>
+    </player_ranking>
+    <player_ranking rank="91" points="662">
+        <player id="sr:competitor:45902" name="Sasnovich, Aliaksandra" abbreviation="SAS" nationality="Belarus" country_code="BLR"/>
+    </player_ranking>
+    <player_ranking rank="92" points="658">
+        <player id="sr:competitor:18742" name="Bondarenko, Katerina" abbreviation="BON" nationality="Ukraine" country_code="UKR"/>
+    </player_ranking>
+    <player_ranking rank="93" points="647">
+        <player id="sr:competitor:18457" name="Flipkens, Kirsten" abbreviation="FLI" nationality="Belgium" country_code="BEL"/>
+    </player_ranking>
+    <player_ranking rank="94" points="640">
+        <player id="sr:competitor:20661" name="Kucova, Kristina" abbreviation="KUC" nationality="Slovakia" country_code="SVK"/>
+    </player_ranking>
+    <player_ranking rank="95" points="635">
+        <player id="sr:competitor:38411" name="Nara, Kurumi" abbreviation="NAR" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="96" points="631">
+        <player id="sr:competitor:65950" name="Sakkari, Maria" abbreviation="SAK" nationality="Greece" country_code="GRC"/>
+    </player_ranking>
+    <player_ranking rank="97" points="629">
+        <player id="sr:competitor:38964" name="Cepelova, Jana" abbreviation="CEP" nationality="Slovakia" country_code="SVK"/>
+    </player_ranking>
+    <player_ranking rank="98" points="626">
+        <player id="sr:competitor:19610" name="Brengle, Madison" abbreviation="BRE" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="99" points="617">
+        <player id="sr:competitor:19671" name="Duque-Marino, Mariana" abbreviation="DUQ" nationality="Colombia" country_code="COL"/>
+    </player_ranking>
+    <player_ranking rank="100" points="617">
+        <player id="sr:competitor:18935" name="King, Vania" abbreviation="KIN" nationality="USA" country_code="USA"/>
+    </player_ranking>
+</ranking>
+<ranking name="ATP" type="ATP" year="2017" week="17" category_id="sr:category:3">
+    <player_ranking rank="1" points="11690">
+        <player id="sr:competitor:15126" name="Murray, Andy" abbreviation="MUR" nationality="Great Britain" country_code="GBR"/>
+    </player_ranking>
+    <player_ranking rank="2" points="8085">
+        <player id="sr:competitor:14882" name="Djokovic, Novak" abbreviation="DJO" nationality="Serbia" country_code="SRB"/>
+    </player_ranking>
+    <player_ranking rank="3" points="5695">
+        <player id="sr:competitor:14548" name="Wawrinka, Stan" abbreviation="WAW" nationality="Switzerland" country_code="CHE"/>
+    </player_ranking>
+    <player_ranking rank="4" points="5125">
+        <player id="sr:competitor:14342" name="Federer, Roger" abbreviation="FED" nationality="Switzerland" country_code="CHE"/>
+    </player_ranking>
+    <player_ranking rank="5" points="4235">
+        <player id="sr:competitor:14486" name="Nadal, Rafael" abbreviation="NAD" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="6" points="4165">
+        <player id="sr:competitor:18111" name="Raonic, Milos" abbreviation="RAO" nationality="Canada" country_code="CAN"/>
+    </player_ranking>
+    <player_ranking rank="7" points="4010">
+        <player id="sr:competitor:15733" name="Nishikori, Kei" abbreviation="NIS" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="8" points="3565">
+        <player id="sr:competitor:15387" name="Cilic, Marin" abbreviation="CIL" nationality="Croatia" country_code="HRV"/>
+    </player_ranking>
+    <player_ranking rank="9" points="3385">
+        <player id="sr:competitor:43748" name="Thiem, Dominic" abbreviation="THI" nationality="Austria" country_code="AUT"/>
+    </player_ranking>
+    <player_ranking rank="10" points="2975">
+        <player id="sr:competitor:25838" name="Goffin, David" abbreviation="GOF" nationality="Belgium" country_code="BEL"/>
+    </player_ranking>
+    <player_ranking rank="11" points="2915">
+        <player id="sr:competitor:15090" name="Tsonga, Jo-Wilfried" abbreviation="TSO" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="12" points="2880">
+        <player id="sr:competitor:23581" name="Dimitrov, Grigor" abbreviation="DIM" nationality="Bulgaria" country_code="BGR"/>
+    </player_ranking>
+    <player_ranking rank="13" points="2870">
+        <player id="sr:competitor:14510" name="Berdych, Tomas" abbreviation="BER" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="14" points="2516">
+        <player id="sr:competitor:57703" name="Pouille, Lucas" abbreviation="POU" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="15" points="2450">
+        <player id="sr:competitor:41371" name="Sock, Jack" abbreviation="SOC" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="16" points="2425">
+        <player id="sr:competitor:62490" name="Kyrgios, Nick" abbreviation="KYR" nationality="Australia" country_code="AUS"/>
+    </player_ranking>
+    <player_ranking rank="17" points="2410">
+        <player id="sr:competitor:14844" name="Monfils, Gael" abbreviation="MON" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="18" points="2145">
+        <player id="sr:competitor:16720" name="Bautista-Agut, Roberto" abbreviation="BAU" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="19" points="2135">
+        <player id="sr:competitor:16822" name="Ramos-Vinolas, Albert" abbreviation="RAM" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="20" points="2025">
+        <player id="sr:competitor:40800" name="Carreno-Busta, Pablo" abbreviation="CAR" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="21" points="2005">
+        <player id="sr:competitor:57163" name="Zverev, Alexander" abbreviation="ZVE" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="22" points="1795">
+        <player id="sr:competitor:14527" name="Karlovic, Ivo" abbreviation="KAR" nationality="Croatia" country_code="HRV"/>
+    </player_ranking>
+    <player_ranking rank="23" points="1740">
+        <player id="sr:competitor:14414" name="Gasquet, Richard" abbreviation="GAS" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="24" points="1705">
+        <player id="sr:competitor:16120" name="Isner, John" abbreviation="ISN" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="25" points="1585">
+        <player id="sr:competitor:38493" name="Johnson, Steve" abbreviation="JOH" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="26" points="1560">
+        <player id="sr:competitor:15789" name="Cuevas, Pablo" abbreviation="CUE" nationality="Uruguay" country_code="URY"/>
+    </player_ranking>
+    <player_ranking rank="27" points="1480">
+        <player id="sr:competitor:15301" name="Querrey, Sam" abbreviation="QUE" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="28" points="1425">
+        <player id="sr:competitor:14646" name="Muller, Gilles" abbreviation="MUL" nationality="Luxembourg" country_code="LUX"/>
+    </player_ranking>
+    <player_ranking rank="29" points="1340">
+        <player id="sr:competitor:15434" name="Fognini, Fabio" abbreviation="FOG" nationality="Italy" country_code="ITA"/>
+    </player_ranking>
+    <player_ranking rank="30" points="1280">
+        <player id="sr:competitor:14736" name="Simon, Gilles" abbreviation="SIM" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="31" points="1240">
+        <player id="sr:competitor:14624" name="Kohlschreiber, Philipp" abbreviation="KOH" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="32" points="1230">
+        <player id="sr:competitor:14404" name="Ferrer, David" abbreviation="FER" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="33" points="1195">
+        <player id="sr:competitor:15276" name="Del Potro, Juan Martin" abbreviation="DEL" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="34" points="1162">
+        <player id="sr:competitor:48599" name="Schwartzman, Diego Sebastian" abbreviation="SCH" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="35" points="1159">
+        <player id="sr:competitor:16011" name="Zverev, Mischa" abbreviation="ZVE" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="36" points="1120">
+        <player id="sr:competitor:14488" name="Verdasco, Fernando" abbreviation="VER" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="37" points="1080">
+        <player id="sr:competitor:37785" name="Sousa, Joao (POR)" abbreviation="SOU" nationality="Portugal" country_code="PRT"/>
+    </player_ranking>
+    <player_ranking rank="38" points="1063">
+        <player id="sr:competitor:14914" name="Lorenzi, Paolo" abbreviation="LOR" nationality="Italy" country_code="ITA"/>
+    </player_ranking>
+    <player_ranking rank="39" points="1055">
+        <player id="sr:competitor:15468" name="Troicki, Viktor" abbreviation="TRO" nationality="Serbia" country_code="SRB"/>
+    </player_ranking>
+    <player_ranking rank="40" points="1045">
+        <player id="sr:competitor:14465" name="Lopez, Feliciano" abbreviation="LOP" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="41" points="960">
+        <player id="sr:competitor:17080" name="Tomic, Bernard" abbreviation="TOM" nationality="Australia" country_code="AUS"/>
+    </player_ranking>
+    <player_ranking rank="42" points="958">
+        <player id="sr:competitor:65382" name="Edmund, Kyle" abbreviation="EDM" nationality="Great Britain" country_code="GBR"/>
+    </player_ranking>
+    <player_ranking rank="43" points="954">
+        <player id="sr:competitor:16375" name="Evans, Daniel" abbreviation="EVA" nationality="Great Britain" country_code="GBR"/>
+    </player_ranking>
+    <player_ranking rank="44" points="937">
+        <player id="sr:competitor:15737" name="Young, Donald" abbreviation="YOU" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="45" points="935">
+        <player id="sr:competitor:14508" name="Mahut, Nicolas" abbreviation="MAH" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="46" points="933">
+        <player id="sr:competitor:16042" name="Haase, Robin" abbreviation="HAA" nationality="Netherlands" country_code="NLD"/>
+    </player_ranking>
+    <player_ranking rank="47" points="933">
+        <player id="sr:competitor:14661" name="Mayer, Florian" abbreviation="MAY" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="48" points="915">
+        <player id="sr:competitor:64580" name="Coric, Borna" abbreviation="COR" nationality="Croatia" country_code="HRV"/>
+    </player_ranking>
+    <player_ranking rank="49" points="915">
+        <player id="sr:competitor:22218" name="Paire, Benoit" abbreviation="PAI" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="50" points="912">
+        <player id="sr:competitor:22900" name="Harrison, Ryan" abbreviation="HAR" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="51" points="911">
+        <player id="sr:competitor:15894" name="Mannarino, Adrian" abbreviation="MAN" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="52" points="908">
+        <player id="sr:competitor:46391" name="Struff, Jan-Lennard" abbreviation="STR" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="53" points="901">
+        <player id="sr:competitor:15098" name="Darcis, Steve" abbreviation="DAR" nationality="Belgium" country_code="BEL"/>
+    </player_ranking>
+    <player_ranking rank="54" points="876">
+        <player id="sr:competitor:16146" name="Bellucci, Thomaz" abbreviation="BEL" nationality="Brazil" country_code="BRA"/>
+    </player_ranking>
+    <player_ranking rank="55" points="868">
+        <player id="sr:competitor:14638" name="Lu, Yen-Hsun" abbreviation="LUY" nationality="Taiwan" country_code="TWN"/>
+    </player_ranking>
+    <player_ranking rank="56" points="867">
+        <player id="sr:competitor:90080" name="Khachanov, Karen" abbreviation="KHA" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="57" points="860">
+        <player id="sr:competitor:14690" name="Almagro, Nicolas" abbreviation="ALM" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="58" points="853">
+        <player id="sr:competitor:41857" name="Vesely, Jiri" abbreviation="VES" nationality="Czech Republic" country_code="CZE"/>
+    </player_ranking>
+    <player_ranking rank="59" points="835">
+        <player id="sr:competitor:15983" name="Klizan, Martin" abbreviation="KLI" nationality="Slovakia" country_code="SVK"/>
+    </player_ranking>
+    <player_ranking rank="60" points="825">
+        <player id="sr:competitor:14772" name="Baghdatis, Marcos" abbreviation="BAG" nationality="Cyprus" country_code="CYP"/>
+    </player_ranking>
+    <player_ranking rank="61" points="811">
+        <player id="sr:competitor:26204" name="Basilashvili, Nikoloz" abbreviation="BAS" nationality="Georgia" country_code="GEO"/>
+    </player_ranking>
+    <player_ranking rank="62" points="792">
+        <player id="sr:competitor:14887" name="Berlocq, Carlos" abbreviation="BER" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="63" points="789">
+        <player id="sr:competitor:163504" name="Medvedev, Daniil" abbreviation="MED" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="64" points="748">
+        <player id="sr:competitor:59281" name="Nishioka, Yoshihito" abbreviation="NIS" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="65" points="736">
+        <player id="sr:competitor:15568" name="Granollers, Marcel" abbreviation="GRA" nationality="Spain" country_code="ESP"/>
+    </player_ranking>
+    <player_ranking rank="66" points="730">
+        <player id="sr:competitor:15561" name="Anderson, Kevin" abbreviation="AND" nationality="South Africa" country_code="ZAF"/>
+    </player_ranking>
+    <player_ranking rank="67" points="726">
+        <player id="sr:competitor:15853" name="Jaziri, Malek" abbreviation="JAZ" nationality="Tunisia" country_code="TUN"/>
+    </player_ranking>
+    <player_ranking rank="68" points="718">
+        <player id="sr:competitor:38022" name="Bedene, Aljaz" abbreviation="BED" nationality="Great Britain" country_code="GBR"/>
+    </player_ranking>
+    <player_ranking rank="69" points="715">
+        <player id="sr:competitor:16087" name="Dutra Silva, Rogerio" abbreviation="DUT" nationality="Brazil" country_code="BRA"/>
+    </player_ranking>
+    <player_ranking rank="70" points="710">
+        <player id="sr:competitor:15829" name="Chardy, Jeremy" abbreviation="CHA" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="71" points="703">
+        <player id="sr:competitor:14552" name="Tipsarevic, Janko" abbreviation="TIP" nationality="Serbia" country_code="SRB"/>
+    </player_ranking>
+    <player_ranking rank="72" points="692">
+        <player id="sr:competitor:101101" name="Tiafoe, Francis" abbreviation="TIA" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="73" points="688">
+        <player id="sr:competitor:15743" name="Istomin, Denis" abbreviation="IST" nationality="Uzbekistan" country_code="UZB"/>
+    </player_ranking>
+    <player_ranking rank="74" points="685">
+        <player id="sr:competitor:14773" name="Seppi, Andreas" abbreviation="SEP" nationality="Italy" country_code="ITA"/>
+    </player_ranking>
+    <player_ranking rank="75" points="685">
+        <player id="sr:competitor:15931" name="Brown, Dustin" abbreviation="BRO" nationality="Germany" country_code="DEU"/>
+    </player_ranking>
+    <player_ranking rank="76" points="681">
+        <player id="sr:competitor:16683" name="Kukushkin, Mikhail" abbreviation="KUK" nationality="Kazakhstan" country_code="KAZ"/>
+    </player_ranking>
+    <player_ranking rank="77" points="663">
+        <player id="sr:competitor:87690" name="Thompson, Jordan" abbreviation="THO" nationality="Australia" country_code="AUS"/>
+    </player_ranking>
+    <player_ranking rank="78" points="655">
+        <player id="sr:competitor:101465" name="Donaldson, Jared" abbreviation="DON" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="79" points="649">
+        <player id="sr:competitor:39234" name="Lajovic, Dusan" abbreviation="LAJ" nationality="Serbia" country_code="SRB"/>
+    </player_ranking>
+    <player_ranking rank="80" points="644">
+        <player id="sr:competitor:47603" name="Monteiro, Thiago Moura" abbreviation="MON" nationality="Brazil" country_code="BRA"/>
+    </player_ranking>
+    <player_ranking rank="81" points="643">
+        <player id="sr:competitor:44547" name="Albot, Radu" abbreviation="ALB" nationality="Moldova" country_code="MDA"/>
+    </player_ranking>
+    <player_ranking rank="82" points="640">
+        <player id="sr:competitor:16086" name="Dolgopolov, Aleksandr" abbreviation="DOL" nationality="Ukraine" country_code="UKR"/>
+    </player_ranking>
+    <player_ranking rank="83" points="635">
+        <player id="sr:competitor:16618" name="Estrella Burgos, Victor" abbreviation="EST" nationality="Dominican Republic" country_code="DOM"/>
+    </player_ranking>
+    <player_ranking rank="84" points="634">
+        <player id="sr:competitor:16160" name="Zeballos, Horacio" abbreviation="ZEB" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="85" points="632">
+        <player id="sr:competitor:80491" name="Escobedo, Ernesto" abbreviation="ESC" nationality="USA" country_code="USA"/>
+    </player_ranking>
+    <player_ranking rank="86" points="627">
+        <player id="sr:competitor:44553" name="Herbert, Pierre Hughes" abbreviation="HER" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="87" points="625">
+        <player id="sr:competitor:24474" name="Kuznetsov, Andrey" abbreviation="KUZ" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="88" points="624">
+        <player id="sr:competitor:55787" name="Olivo, Renzo" abbreviation="OLI" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="89" points="620">
+        <player id="sr:competitor:14371" name="Youzhny, Mikhail" abbreviation="YOU" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="90" points="605">
+        <player id="sr:competitor:49172" name="Dzumhur, Damir" abbreviation="DZU" nationality="Bosnia &amp; Herzegovina" country_code="BIH"/>
+    </player_ranking>
+    <player_ranking rank="91" points="603">
+        <player id="sr:competitor:16507" name="Sugita, Yuichi" abbreviation="SUG" nationality="Japan" country_code="JPN"/>
+    </player_ranking>
+    <player_ranking rank="92" points="592">
+        <player id="sr:competitor:14573" name="Robert, Stephane" abbreviation="ROB" nationality="France" country_code="FRA"/>
+    </player_ranking>
+    <player_ranking rank="93" points="587">
+        <player id="sr:competitor:16248" name="Kravchuk, Konstantin" abbreviation="KRA" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="94" points="579">
+        <player id="sr:competitor:83211" name="Chung, Hyeon" abbreviation="CHU" nationality="South Korea" country_code="KOR"/>
+    </player_ranking>
+    <player_ranking rank="95" points="575">
+        <player id="sr:competitor:66086" name="Kicker, Nicolas" abbreviation="KIC" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="96" points="558">
+        <player id="sr:competitor:17017" name="Donskoy, Evgeny" abbreviation="DON" nationality="Russia" country_code="RUS"/>
+    </player_ranking>
+    <player_ranking rank="97" points="557">
+        <player id="sr:competitor:15300" name="Sela, Dudi" abbreviation="SEL" nationality="Israel" country_code="ISR"/>
+    </player_ranking>
+    <player_ranking rank="98" points="555">
+        <player id="sr:competitor:35167" name="Delbonis, Federico" abbreviation="DEL" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+    <player_ranking rank="99" points="546">
+        <player id="sr:competitor:15530" name="Giraldo, Santiago" abbreviation="GIR" nationality="Colombia" country_code="COL"/>
+    </player_ranking>
+    <player_ranking rank="100" points="544">
+        <player id="sr:competitor:38183" name="Bagnis, Facundo" abbreviation="BAG" nationality="Argentina" country_code="ARG"/>
+    </player_ranking>
+</ranking>
+</player_rankings>
